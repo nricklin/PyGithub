@@ -35,7 +35,7 @@ version = "1.26.0"
 
 if __name__ == "__main__":
     setuptools.setup(
-        name="PyGithub",
+        name="PyGithub-requests",
         version=version,
         description="Use the full Github API v3",
         author="Vincent Jacques",
